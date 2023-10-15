@@ -9,12 +9,12 @@ Ensure you have the following installed on your system:
 # Getting Started
 Follow these steps to compile and run the School Management System:
 
-### 1. Clone this Repository:
+### 1. Clone this Repository
 ```bash
 git clone [This-Repository-URL]
 ```
 
-### 2. Navigate to the Project Directory:
+### 2. Navigate to the Project Directory
 ```bash
 cd path/to/your/cloned/repository/cmpt135-school-management-system
 ```
